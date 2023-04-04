@@ -1,1 +1,3 @@
 
+deprecated; 
+see TylerAPritchard.com
